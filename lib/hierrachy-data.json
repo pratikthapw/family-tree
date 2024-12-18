@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Ramesh",
+    "dob": "1945-05-15",
+    "role": "grandfather",
+    "spouse": {
+      "name": "Sunita",
+      "role": "wife",
+      "dob": "1948-09-20"
+    },
+    "childrens": [
+      {
+        "name": "Rajesh",
+        "dob": "1975-08-12",
+        "role": "son",
+        "spouse": {
+          "name": "Meena",
+          "role": "wife",
+          "dob": "1978-01-18"
+        },
+        "childrens": [
+          {
+            "name": "Aman",
+            "dob": "2000-02-25",
+            "role": "son",
+            "spouse": {
+              "name": "Priya",
+              "role": "wife",
+              "dob": "2001-11-09"
+            }
+          },
+          {
+            "name": "Anjali",
+            "dob": "2004-06-15",
+            "role": "daughter"
+          }
+        ]
+      },
+      {
+        "name": "Suresh",
+        "dob": "1978-03-21",
+        "role": "son",
+        "spouse": {
+          "name": "Pooja",
+          "role": "wife",
+          "dob": "1981-02-11"
+        },
+        "childrens": [
+          {
+            "name": "Kiran",
+            "dob": "2005-10-03",
+            "role": "daughter"
+          },
+          {
+            "name": "Vikram",
+            "dob": "2007-04-12",
+            "role": "son"
+          }
+        ]
+      },
+      {
+        "name": "Neelam",
+        "dob": "1981-09-08",
+        "role": "daughter",
+        "spouse": {
+          "name": "Arun",
+          "role": "husband",
+          "dob": "1979-11-30"
+        },
+        "childrens": [
+          {
+            "name": "Ritika",
+            "dob": "2010-07-14",
+            "role": "daughter"
+          },
+          {
+            "name": "Kunal",
+            "dob": "2013-01-25",
+            "role": "son"
+          }
+        ]
+      }
+    ]
+  }
+]
